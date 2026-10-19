@@ -1,11 +1,8 @@
+https://github.com/TestSubject-001/posmotri-v-okno-ad
+
 # Посмотри в окно
 
 Проектная работа курса «Вёрстка. Доступность и подходы к организации стилей» Яндекс Практикума.
-
-## Репозиторий
-
-[https://github.com/TestSubject-001/posmotri-v-okno-ad](https://github.com/TestSubject-001/posmotri-v-okno-ad)
-
 
 ## О проекте
 
